@@ -1,9 +1,9 @@
 <footer>
     <div class="environment">
 
-    <p>Page rendered in {elapsed_time} seconds using {memory_usage} MB of memory.</p>
+    <p>La página fue renderizada en {elapsed_time} segundos usando {memory_usage} MB de memoria.</p>
 
-    <p>Environment: <?= ENVIRONMENT ?></p>
+    <p>Entorno: <?= ENVIRONMENT ?></p>
 
     </div>
 
