@@ -6,6 +6,13 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+        $page_name = "Inicio";
+
+        return
+            view('layout/head', ['page_name' => $page_name]).
+            view('layout/header').
+            view('home').
+            view('layout/footer').
+            view('layout/scripts');
     }
 }

@@ -27,6 +27,7 @@ $routes->get('/contactar', 'Contacto::index');
 //Rutas al términos y usos
 $routes->get('/privacy_policy', 'Terminos::index');
 $routes->get('/terms', 'Terminos::index');
+$routes->get('/privacy', 'Terminos::index');
 $routes->get('/terminos_y_usos', 'Terminos::index');
 $routes->get('/terminos-y-usos', 'Terminos::index');
 $routes->get('/terminos', 'Terminos::index');
