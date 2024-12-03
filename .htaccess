@@ -1,2 +1,5 @@
 RewriteEngine On
+
+# Redirigir todas las peticiones a la carpeta /public
+RewriteCond %{REQUEST_URI} !^/proyecto_entec/public/
 RewriteRule ^(.*)$ /proyecto_entec/public/$1 [L,QSA]
