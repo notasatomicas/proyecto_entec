@@ -6,4 +6,16 @@
     <title><?= esc($page_name); ?></title>
 
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="./css/animate.min.css">
+
+    <!-- ICONOS DE BOOTSTRAP -->
+    <link rel="stylesheet" href="./bootstrap-icons/font/bootstrap-icons.min.css">
+    
+    <link rel="stylesheet" href="./css/hoverme.css">
+
+    <link rel="stylesheet" href="./leaflet/leaflet.css">
+    
+    <!-- mapa -->
+    <script src="./leaflet/leaflet.js"></script>
 </head>
