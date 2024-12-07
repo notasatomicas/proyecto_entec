@@ -5,18 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= esc($page_name); ?></title>
 
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
 
-    <link rel="stylesheet" href="/assets/css/animate.min.css">
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="./css/animate.min.css">
 
     <!-- ICONOS DE BOOTSTRAP -->
-    <link rel="stylesheet" href="/assets/bootstrap-icons/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="./bootstrap-icons/font/bootstrap-icons.min.css">
     
-    <link rel="stylesheet" href="/assets/css/hoverme.css">
+    <link rel="stylesheet" href="./css/hoverme.css">
 
-    <link rel="stylesheet" href="/assets/leaflet/leaflet.css">
+    <link rel="stylesheet" href="./leaflet/leaflet.css">
     
     <!-- mapa -->
-    <script src="/assets/leaflet/leaflet.js"></script>
+    <script src="./leaflet/leaflet.js"></script>
 </head>
