@@ -6,11 +6,11 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Inicio</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Nosotros</a></li>
+        <li id="btn-inicio" class="nav-item"><a href="#" class="nav-link" aria-current="page">Inicio</a></li>
+        <li id="btn-" class="nav-item"><a href="#" class="nav-link">Features</a></li>
+        <li id="btn-" class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
+        <li id="btn-contacto" class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
+        <li id="btn-nosotros" class="nav-item"><a href="#" class="nav-link">Nosotros</a></li>
       </ul>
 </header>
 
